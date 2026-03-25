@@ -133,7 +133,6 @@ int main() {
     quickSort(a4, 0, n - 1);
     cout << "Quick Sort: ";
     printArray(a4, n);
-
     // Heap
     heapSort(a5, n);
     cout << "Heap Sort: ";
