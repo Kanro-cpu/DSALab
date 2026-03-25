@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-
 using namespace std;
 
 // i) Hàm đọc tập tin data002.in
