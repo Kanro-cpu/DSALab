@@ -80,9 +80,14 @@ void ThemSau(List &L, Node *q, int x) {
 void ThemTruoc(List &L, Node *q, int x) {
     if (q == nullptr) return;
     if (q == L.head) { ThemDau(L, x); return; }
-    Node *p = TaoNode(x);
+
     Node *cur = L.head;
-    while (cur->next != q) cur = cur->next;
+    while (cur != nullptr && cur->next != q)
+        cur = cur->next;
+
+    if (cur == nullptr) return; // q không tồn tại
+
+    Node *p = TaoNode(x);
     p->next = q;
     cur->next = p;
 }
