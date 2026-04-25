@@ -1,4 +1,4 @@
-# Đồ án: Hệ thống Quản lý Shop Cosplay - LeNguyenKhang_2122110497
+Đồ án: Hệ thống Quản lý Shop Cosplay - LeNguyenKhang_2122110497
 
 ## 📝 Giới thiệu
 Dự án xây dựng hệ thống Backend cho cửa hàng bán trang phục và phụ kiện Cosplay. Hệ thống cho phép quản lý danh mục sản phẩm, theo dõi đơn hàng và cung cấp API cho các nền tảng frontend.
