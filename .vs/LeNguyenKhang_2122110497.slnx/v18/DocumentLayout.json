@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kanro\\Documents\\LeNguyenKhang_2122110497\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D919B879-921E-BA72-A24C-C855F9B122AE}|LeNguyenKhang_2122110497\\LeNguyenKhang_2122110497.csproj|c:\\users\\kanro\\documents\\lenguyenkhang_2122110497\\lenguyenkhang_2122110497\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D919B879-921E-BA72-A24C-C855F9B122AE}|LeNguyenKhang_2122110497\\LeNguyenKhang_2122110497.csproj|solutionrelative:lenguyenkhang_2122110497\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D919B879-921E-BA72-A24C-C855F9B122AE}|LeNguyenKhang_2122110497\\LeNguyenKhang_2122110497.csproj|c:\\users\\kanro\\documents\\lenguyenkhang_2122110497\\lenguyenkhang_2122110497\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D919B879-921E-BA72-A24C-C855F9B122AE}|LeNguyenKhang_2122110497\\LeNguyenKhang_2122110497.csproj|solutionrelative:lenguyenkhang_2122110497\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin.html",
+              "DocumentMoniker": "C:\\Users\\Kanro\\Documents\\LeNguyenKhang_2122110497\\LeNguyenKhang_2122110497\\wwwroot\\admin.html",
+              "RelativeDocumentMoniker": "LeNguyenKhang_2122110497\\wwwroot\\admin.html",
+              "ToolTip": "C:\\Users\\Kanro\\Documents\\LeNguyenKhang_2122110497\\LeNguyenKhang_2122110497\\wwwroot\\admin.html",
+              "RelativeToolTip": "LeNguyenKhang_2122110497\\wwwroot\\admin.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-24T05:00:42.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Kanro\\Documents\\LeNguyenKhang_2122110497\\LeNguyenKhang_2122110497\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LeNguyenKhang_2122110497\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Kanro\\Documents\\LeNguyenKhang_2122110497\\LeNguyenKhang_2122110497\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LeNguyenKhang_2122110497\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:54:03.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
